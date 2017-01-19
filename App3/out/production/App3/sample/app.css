@@ -1,0 +1,15 @@
+#myMessage{
+   -fx-font-size: 20px;
+   -fx-background-color:rgba(155,21,105, .80)
+}
+.root{
+   -fx-background-color: gray;
+}
+
+
+.button{
+   -fx-background-color: white;
+   -fx-text-fill: blue;
+   -fx-font-weight: bold;
+}
+

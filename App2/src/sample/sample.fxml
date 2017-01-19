@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="random" layoutX="93.0" layoutY="60.0" mnemonicParsing="false" text="B1" />
+      <Button layoutX="200.0" layoutY="100.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="123.0" layoutY="214.0" mnemonicParsing="false" text="Button" />
+      <CheckBox layoutX="259.0" layoutY="266.0" mnemonicParsing="false" text="CheckBox" />
+      <Button layoutX="230.0" layoutY="220.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="260.0" layoutY="100.0" mnemonicParsing="false" text="Button" />
+   </children>
+</AnchorPane>
